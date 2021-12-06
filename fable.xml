@@ -1,5 +1,5 @@
 <fable>
-	<page background="frame.png" soundtrack="audio.png">
+	<page background="frame.png" soundtrack="song.mp3">
   
     <agent text="Elemento de Texto" x="50" y="450" />
     
