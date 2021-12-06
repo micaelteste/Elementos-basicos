@@ -1,6 +1,11 @@
 <fable>
-	<page>
+	<page background="frame.png" soundtrack="audio.png">
   
+    <agent text="Elemento de Texto" x="50" y="450" />
+    
+    <agent img="box.png" x="400" y="350" width="50" height="50" />
+
+    <agent video="mov.mp4" x="50" y="50" width="300" height="300" />
     
   </page>
 </fable>
